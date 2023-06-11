@@ -1,0 +1,71 @@
+body{
+
+    text-align: center;
+    background-image: url("https://www.workflowmax.com/hubfs/6-things-to-do-list.png");
+}
+
+
+h2,h5{
+    color: #a71591;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.navbar{
+    background-color: #1aacd8;
+    font-size: larger;
+    padding: 1rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.navbar-brand{
+    margin-right: 45rem;
+    margin-left: 4rem;
+    font-size: xx-large;
+}
+.nav-item{
+    padding-right: 2rem;
+}
+.btn{
+	display: inline-block;
+  padding: 10px 20px;
+  background-color: #4ed168;
+  font-size: large;
+  font-weight: 400;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #130e0e;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.btn:hover{
+	
+	background-color: #390368;
+	color: #00ff33;
+}
+
+.insidetask{
+    text-align: left;
+    padding: 1rem;
+    color:#8bf26f
+}
+
+.tasks{
+    background-color: #02005e;
+    margin:1rem;
+    padding:1.2rem;
+    border-radius:0.8rem;
+}
+
+
+
+.box{
+    width:60%;
+    margin:auto;
+    background-color: #B0DAFF;
+    margin-top: 1rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-width: 0.2rem;
+    border-color: rgb(255, 255, 255);
+    box-shadow: 0.1rem 0.2rem rgb(190, 232, 4)
+}
